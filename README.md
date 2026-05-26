@@ -1,4 +1,4 @@
-<img width="917" height="1600" alt="img7" src="https://github.com/user-attachments/assets/3499c0bf-6c5c-421e-82e7-2d6b311a212c" /><img width="1080" height="458" alt="img2" src="https://github.com/user-attachments/assets/85a05f49-9bb3-41ea-a61b-7e517b52442e" />these are the questions for the following queries shown up there
+these are the questions for the following queries shown up there
 
 <h3>Experiment 1</h3>
 
